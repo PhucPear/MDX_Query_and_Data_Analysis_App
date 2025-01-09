@@ -6,10 +6,10 @@
 - Truy vẫn MDX.
 # Hình ảnh minh hoạ cho từng chức năng:
 ## Nạp dữ liệu từ file Excel vào SQL server và hiển thị dữ liệu lên
-<img src="1.PNG" alt="My Image" width="600">
+<img src="1.PNG" alt="My Image" width="900" height="900">
 
 ## Phân tích dữ liệu, như doanh thu, lợi nhuận, số lượng tồn
-<img src="2.PNG" alt="My Image" width="600">
+<img src="2.PNG" alt="My Image" width="900" height="900">
 
 ## Truy vẫn MDX
-<img src="3.PNG" alt="My Image" width="600">
+<img src="3.PNG" alt="My Image" width="900" height="900">

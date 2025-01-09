@@ -1,0 +1,28 @@
+# Ignore build results
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.csproj.user
+
+# Ignore packages and dependencies
+packages/
+.vscode/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore config and publish settings
+*.Publish.xml
+*.wpp.targets
+*.wpp.config
+
+# Ignore ReSharper and Rider files
+.idea/
+*.DotSettings.user
+
+# Ignore Visual Studio temporary files
+.vs/
